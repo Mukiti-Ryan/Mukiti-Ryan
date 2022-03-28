@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukiti-Ryan&theme=dark&show_icons=true)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mukiti-Ryan)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mukiti-Ryan?cardType=github)](https://git.io/awesome-stats-card)

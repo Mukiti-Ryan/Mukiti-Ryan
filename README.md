@@ -4,7 +4,7 @@
 **Mukiti-Ryan/Mukiti-Ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+My name is Ryan Mukiti.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mukiti-Ryan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukiti-Ryan&theme=dark&show_icons=true)
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mukiti-Ryan?cardType=github)](https://git.io/awesome-stats-card)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukiti-Ryan&theme=tokyonight)

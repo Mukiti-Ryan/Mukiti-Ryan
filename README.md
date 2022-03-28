@@ -15,8 +15,8 @@ My name is Ryan Mukiti.
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mukiti-Ryan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mukiti-Ryan&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mukiti-Ryan?cardType=github)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mukiti-Ryan?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukiti-Ryan&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukiti-Ryan&theme=github-dark)

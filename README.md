@@ -1,8 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I am Ryan Mukiti
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mukiti-Ryan?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
+
+I am a student at Strathmore University.
+
+🌱 I’m currently learning Spring Framework
+<br>
+📫 How to reach me: MukitiRyanGit@gmail.com
+
+
+💬 Ask me about ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukiti-Ryan&theme=github-dark)
 
 <!--
 **Mukiti-Ryan/Mukiti-Ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 My name is Ryan Mukiti.
 - 🔭 I’m currently working on ...
@@ -14,7 +26,3 @@ My name is Ryan Mukiti.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mukiti-Ryan?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukiti-Ryan&theme=github-dark)

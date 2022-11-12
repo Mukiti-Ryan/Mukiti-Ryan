@@ -2,11 +2,11 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mukiti-Ryan?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 
-I am a student at Strathmore University.
+Currently a Student at Strathmore University.
 
-🌱 I’m currently learning Spring Framework
+🌱 I'm currently learning Mobile Application Development using Kotlin
 <br>
-📫 How to reach me: MukitiRyanGit@gmail.com
+📫 How to reach me: ryan.mukirri@gmail.com
 
 
 💬 Ask me about ...

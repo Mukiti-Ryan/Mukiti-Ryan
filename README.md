@@ -4,7 +4,9 @@
 
 Currently a Student at Strathmore University.
 
-🌱 I'm currently learning Mobile Application Development using Kotlin
+🌱 I'm currently learning Python
+🔭 I’m currently working on Sentiment Analysis
+
 <br>
 📫 How to reach me: ryan.mukirri@gmail.com
 

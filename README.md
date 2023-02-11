@@ -6,6 +6,7 @@ Currently a Student at Strathmore University.
 
 🌱 I'm currently learning Python
 <br>
+<br>
 🔭 I’m currently working on Sentiment Analysis
 
 <br>

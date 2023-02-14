@@ -6,8 +6,7 @@ Currently a Student at Strathmore University.
 
 🌱 I'm currently learning Python
 <br>
-<br>
-🔭 I’m currently working on Sentiment Analysis
+🔭 I’m currently working on Machine Learning
 
 <br>
 📫 How to reach me: ryan.mukirri@gmail.com

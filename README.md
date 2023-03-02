@@ -13,6 +13,7 @@ Currently a Student at Strathmore University.
 
 
 💬 Ask me about ...
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,sql,html,css,javascript,react,figma&theme=light)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukiti-Ryan&theme=github-dark)
 

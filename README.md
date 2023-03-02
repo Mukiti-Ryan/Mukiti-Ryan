@@ -2,7 +2,7 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mukiti-Ryan?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 
-Currently a Student at Strathmore University.
+I am currently a Student at Strathmore University.
 
 🌱 I'm currently learning Python
 <br>
@@ -11,7 +11,7 @@ Currently a Student at Strathmore University.
 <br>
 📫 How to reach me: ryan.mukirri@gmail.com
 
-
+<br>
 💬 Ask me about ...
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,figma,java,python&perline=4)](https://skillicons.dev)

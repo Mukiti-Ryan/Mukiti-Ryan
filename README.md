@@ -5,13 +5,14 @@
 I am currently a Student at Strathmore University.
 
 🌱 I'm currently learning Python
-<br>
+<br/>
 🔭 I’m currently working on Machine Learning
 
-<br>
+<br/>
 📫 How to reach me: ryan.mukirri@gmail.com
 
-<br>
+<br/>
+<br/>
 💬 Ask me about ...
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,figma,java,python&perline=4)](https://skillicons.dev)
